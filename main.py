@@ -6,6 +6,12 @@ from app.routes import account, logo, stats
 
 app = FastAPI()
 
+
+@app.get("/healthcheck")
+def healthcheck():
+    return {"status": "ok"}
+
+
 # Инициализация базы
 init_db([Account, LogoAccess])
 

@@ -16,6 +16,8 @@ venv.bak/
 *.pyo
 *.pyd
 
+*.db
+
 # Distribution / packaging
 build/
 dist/
