@@ -31,14 +31,5 @@ jobs:
       - name: Run pre-commit hooks
         run: pre-commit run --all-files
 
-      - name: Run black check
-        run: black --check .
-
-      - name: Run isort check
-        run: isort --check-only .
-
-      - name: Run ruff lint
-        run: ruff check .
-
       - name: Run tests
         run: pytest tests --maxfail=1 --disable-warnings -v
