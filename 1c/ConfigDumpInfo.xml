@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="CommonCommand.КДРО_Авторизация" id="33dc177e-08e3-4f81-b5d9-0cfb0f6f470c" configVersion="ae55f03739bcdebf2029a9c68a9cbbd692edf143"/>
+		<Metadata name="CommonCommand.КДРО_Авторизация.CommandModule" id="33dc177e-08e3-4f81-b5d9-0cfb0f6f470c.2" configVersion="2d474d66d41b5a049b69668d16ab96762c8b7eeb"/>
+		<Metadata name="CommonForm.КДРО_Авторизация" id="aac146e6-08e2-465e-851a-0470ab4a7c39" configVersion="f342117d92bad50a191cc1788569128e6d50af68"/>
+		<Metadata name="CommonForm.КДРО_Авторизация.Form" id="aac146e6-08e2-465e-851a-0470ab4a7c39.0" configVersion="fc7dc32973741f2c42dd6f2da84213fe67bfe3ed"/>
+		<Metadata name="CommonModule.КДРО_Сервер" id="60deed8b-7882-4b7b-b101-bbed50b3471d" configVersion="7ad418189684aa7e7b7a657dc00679fec59ec81c"/>
+		<Metadata name="CommonModule.КДРО_Сервер.Module" id="60deed8b-7882-4b7b-b101-bbed50b3471d.0" configVersion="614f6843409430d31cf70697de31f351786bf641"/>
+		<Metadata name="Configuration.КонтрольДоставкиРассылкиОтчетов" id="f6261b11-1b5a-4ae0-ae80-397b10e7ba02" configVersion="ba26dc31b2a965d3e92c85376a1d36af0fdd6abe"/>
+		<Metadata name="Language.Русский" id="bde03480-e3ed-4f6c-b768-653f98517fd1" configVersion="22d199cb45e200c0325ed89e360eedc3b20eceda"/>
+		<Metadata name="Role.ПолныеПрава" id="4d767a9e-62a8-423f-8fda-64d817d048f9" configVersion="2b998b1fa6beb1242ed597b07cf7dbfcf95b7a58"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="4d767a9e-62a8-423f-8fda-64d817d048f9.0" configVersion="19c9af8e6a2e0cd8c76bf25416d712c83076626c"/>
+		<Metadata name="Role.ЧтениеРассылокОтчетов" id="1fc91dda-589a-4860-9430-2a787e58247d" configVersion="360cdab471b5c82737122a1cdf69e50731c6b430"/>
+		<Metadata name="Role.ЧтениеРассылокОтчетов.Rights" id="1fc91dda-589a-4860-9430-2a787e58247d.0" configVersion="2ac57018784f23ad8a5b700a2d6819ed72f053c5"/>
+		<Metadata name="Subsystem.Администрирование" id="44f466a9-fc59-4533-9672-15548b862025" configVersion="511ff449b74c1737b7aa8a52080cea359e5925ad"/>
+		<Metadata name="Subsystem.Администрирование.CommandInterface" id="44f466a9-fc59-4533-9672-15548b862025.1" configVersion="e38641091ecd3023a8b59aa4cd1dc18b1fcf8e61"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
