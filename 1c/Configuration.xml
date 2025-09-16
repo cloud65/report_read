@@ -65,6 +65,9 @@
 			<Role>ПолныеПрава</Role>
 			<Role>ЧтениеРассылокОтчетов</Role>
 			<CommonModule>КДРО_Сервер</CommonModule>
+			<CommonModule>КДРО_ПовтИсп</CommonModule>
+			<CommonModule>РассылкаОтчетовПереопределяемый</CommonModule>
+			<CommonModule>РассылкаОтчетов</CommonModule>
 			<CommonCommand>КДРО_Авторизация</CommonCommand>
 			<CommonForm>КДРО_Авторизация</CommonForm>
 		</ChildObjects>

@@ -5,9 +5,15 @@
 		<Metadata name="CommonCommand.КДРО_Авторизация.CommandModule" id="33dc177e-08e3-4f81-b5d9-0cfb0f6f470c.2" configVersion="2d474d66d41b5a049b69668d16ab96762c8b7eeb"/>
 		<Metadata name="CommonForm.КДРО_Авторизация" id="aac146e6-08e2-465e-851a-0470ab4a7c39" configVersion="f342117d92bad50a191cc1788569128e6d50af68"/>
 		<Metadata name="CommonForm.КДРО_Авторизация.Form" id="aac146e6-08e2-465e-851a-0470ab4a7c39.0" configVersion="fc7dc32973741f2c42dd6f2da84213fe67bfe3ed"/>
+		<Metadata name="CommonModule.КДРО_ПовтИсп" id="afdd02de-4adf-4b02-964e-c81b8a9788ee" configVersion="452f21ae001ecc982372f5850bd41a8f0c50f01b"/>
+		<Metadata name="CommonModule.КДРО_ПовтИсп.Module" id="afdd02de-4adf-4b02-964e-c81b8a9788ee.0" configVersion="4e2a91c8025deb372508ac6b6a138faa2e984ea6"/>
 		<Metadata name="CommonModule.КДРО_Сервер" id="60deed8b-7882-4b7b-b101-bbed50b3471d" configVersion="7ad418189684aa7e7b7a657dc00679fec59ec81c"/>
-		<Metadata name="CommonModule.КДРО_Сервер.Module" id="60deed8b-7882-4b7b-b101-bbed50b3471d.0" configVersion="614f6843409430d31cf70697de31f351786bf641"/>
-		<Metadata name="Configuration.КонтрольДоставкиРассылкиОтчетов" id="f6261b11-1b5a-4ae0-ae80-397b10e7ba02" configVersion="ba26dc31b2a965d3e92c85376a1d36af0fdd6abe"/>
+		<Metadata name="CommonModule.КДРО_Сервер.Module" id="60deed8b-7882-4b7b-b101-bbed50b3471d.0" configVersion="ee9b51972b6d32b5b2c7fedd2a0bb0ee903ccde0"/>
+		<Metadata name="CommonModule.РассылкаОтчетов" id="6650f9c7-d0aa-4fc1-981c-766992463d12" configVersion="3d58059dbe51757bf361eccba6caeb84a48f53ed"/>
+		<Metadata name="CommonModule.РассылкаОтчетов.Module" id="6650f9c7-d0aa-4fc1-981c-766992463d12.0" configVersion="c1ffb1e491978c3ecb67967b93922c8242b9a2c5"/>
+		<Metadata name="CommonModule.РассылкаОтчетовПереопределяемый" id="54bb53ab-4608-4903-b091-ae6f75902b21" configVersion="ae98ad217d15b95cb584bb339adb7da671dea562"/>
+		<Metadata name="CommonModule.РассылкаОтчетовПереопределяемый.Module" id="54bb53ab-4608-4903-b091-ae6f75902b21.0" configVersion="1246c2304e7abf21583d20c5f9a3a4543443a1a7"/>
+		<Metadata name="Configuration.КонтрольДоставкиРассылкиОтчетов" id="f6261b11-1b5a-4ae0-ae80-397b10e7ba02" configVersion="dd93cff7e68082ac4f3798a47c03ec3fd604d645"/>
 		<Metadata name="Language.Русский" id="bde03480-e3ed-4f6c-b768-653f98517fd1" configVersion="22d199cb45e200c0325ed89e360eedc3b20eceda"/>
 		<Metadata name="Role.ПолныеПрава" id="4d767a9e-62a8-423f-8fda-64d817d048f9" configVersion="2b998b1fa6beb1242ed597b07cf7dbfcf95b7a58"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="4d767a9e-62a8-423f-8fda-64d817d048f9.0" configVersion="19c9af8e6a2e0cd8c76bf25416d712c83076626c"/>
